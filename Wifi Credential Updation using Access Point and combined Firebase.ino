@@ -1,3 +1,5 @@
+/*some code blocks used in this code has been borrowed from open sources codes*/
+
 #include <FS.h> 
 #include <ESP8266WiFi.h>
 #include <DNSServer.h>
